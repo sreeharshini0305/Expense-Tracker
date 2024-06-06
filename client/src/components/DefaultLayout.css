@@ -1,0 +1,14 @@
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-text {
+    color: bisque;
+    margin-left: 10px;
+}
+
+.logo-image {
+    height: 50px;
+    width: auto;
+}
